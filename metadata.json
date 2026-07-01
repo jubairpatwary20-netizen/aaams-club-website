@@ -1,0 +1,6 @@
+{
+  "name": "AAAM&S Club Website",
+  "description": "Official website of the Al Amin Academy Math & Science Club (AAAM&S Club), featuring publications, projects, activities, events, and club administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
